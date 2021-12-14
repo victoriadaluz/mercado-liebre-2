@@ -1,0 +1,68 @@
+
+/***********/
+/* Header */
+/***********/
+
+header {
+    background-color: var(--Amarillo);
+    font-size: var(--paragraph);
+    padding-bottom: 10px;
+}
+
+header img {
+    margin-left: -8%;
+}
+
+header .burger-menu  {
+    background-color: var(--Celeste);
+    border-radius: 5px;
+    color: white;
+    margin: 10px auto 0 auto;
+    text-align: center;
+    padding: 7px 8px;
+    width: 20px;
+    font-size: 20px;
+}
+
+header .logo {
+    width: 130px;
+    margin-left:25px;
+    padding-top: 25px;
+    margin-bottom: 10px;
+}
+header .container {
+    margin-left:20px;
+}
+
+header p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+/* Search Bar */
+
+.search-bar {
+    align-items: center;
+    background-color: var(--Blanco);
+    padding: 7px 6px;
+    width: 50%;
+}
+
+.search-bar input {
+    border:none;
+    font-size: 10px;
+    outline: none;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
